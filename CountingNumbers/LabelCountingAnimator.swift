@@ -3,7 +3,7 @@
 //  CountingNumbers
 //
 //  Created by Nik on 10/29/20.
-//
+// You can copy this code and paste in your project
 
 import Foundation
 import UIKit
