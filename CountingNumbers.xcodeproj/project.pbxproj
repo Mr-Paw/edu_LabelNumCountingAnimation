@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		248D01B9254B0AB10049A4D1 /* LabelCountingAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248D01B8254B0AB10049A4D1 /* LabelCountingAnimator.swift */; };
 		24DDB3A32549EC9B00AD8773 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DDB3A22549EC9B00AD8773 /* AppDelegate.swift */; };
 		24DDB3A52549EC9B00AD8773 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DDB3A42549EC9B00AD8773 /* SceneDelegate.swift */; };
 		24DDB3A72549EC9B00AD8773 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24DDB3A62549EC9B00AD8773 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		248D01B8254B0AB10049A4D1 /* LabelCountingAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelCountingAnimator.swift; sourceTree = "<group>"; };
 		24DDB39F2549EC9B00AD8773 /* CountingNumbers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CountingNumbers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		24DDB3A22549EC9B00AD8773 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		24DDB3A42549EC9B00AD8773 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				24DDB3A22549EC9B00AD8773 /* AppDelegate.swift */,
 				24DDB3A42549EC9B00AD8773 /* SceneDelegate.swift */,
 				24DDB3A62549EC9B00AD8773 /* ViewController.swift */,
+				248D01B8254B0AB10049A4D1 /* LabelCountingAnimator.swift */,
 				24DDB3A82549EC9B00AD8773 /* Main.storyboard */,
 				24DDB3AB2549EC9C00AD8773 /* Assets.xcassets */,
 				24DDB3AD2549EC9C00AD8773 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				248D01B9254B0AB10049A4D1 /* LabelCountingAnimator.swift in Sources */,
 				24DDB3A72549EC9B00AD8773 /* ViewController.swift in Sources */,
 				24DDB3A32549EC9B00AD8773 /* AppDelegate.swift in Sources */,
 				24DDB3A52549EC9B00AD8773 /* SceneDelegate.swift in Sources */,
